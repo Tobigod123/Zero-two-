@@ -1,7 +1,6 @@
-![Compressor Bot](https://telegra.ph/file/7e3c7f4f70272c6e59c52.jpg)
+![Compressor Bot](https://graph.org/file/6bdc4c742583b09496254.jpg)
 
-# Erika Amano
-Erika Amano (天野 エリカ, Amano Erika) is the main female protagonist of the A Couple of Cuckoos manga series. She is a popular Instagram celebrity who is the biological daughter of the family that raised Nagi.
+# Zero Two (ゼロツー, Zero Tsū) is the main female protagonist of the "Darling in the Franxx" anime series. A mysterious and alluring Franxx pilot, she possesses distinctive Klaxosaur traits. Zero Two is known for her enigmatic personality and appearance, captivating both fans and characters within the series.
 
 </br>
 
