@@ -113,7 +113,7 @@ async def callback_authroize(client:Client, callback_query):
     
     if 'unauth' in callback_query.data:
         if callback_query.from_user.id != OWNER_ID:
-            await callback_query.answer("Oops You're not authorized to do this")
+            await callback_query.answer("Oops You're not authorized to do this contact @ninja_obito_sai")
             return
         id = callback_query.data.split('-')[1]
         id = int(id)
