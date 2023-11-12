@@ -80,8 +80,8 @@ BUTTONS_DEV = IKM(
             IKB('ɢɪᴛʜᴜʙ', url = 'https://github.com/tobigod123')
         ],
         [
-            IKB('ᴡᴇʙsɪᴛᴇ', url=''),
-            IKB('ᴄʜᴀɴɴᴇʟ', url='https://t.me/Anime_Fusion_Hub'),
+            IKB('ᴡᴇʙsɪᴛᴇ', url='https://t.me/AnimeZenith'),
+            IKB('ᴄʜᴀɴɴᴇʟ', url='https://t.me/AnimeZenith'),
         ],
         [
             IKB('ɪɴsᴛᴀɢʀᴀᴍ', url='https://instagram.com'),
