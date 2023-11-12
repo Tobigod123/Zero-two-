@@ -11,11 +11,11 @@ LOG.setLevel(level=logging.INFO)
 #<-----------Variables-------------->
 LOG.info('❤️ Checking Bot Variables.....')
 TRIGGERS = os.environ.get("TRIGGERS", "/ !").split(" ")
-BOT_TOKEN = os.environ.get('BOT_TOKEN', '6640053053:AAECiQiBAW_Mw32wwtFiRerXu_9YVsBpVGI') #BOT Token Add
+BOT_TOKEN = os.environ.get('BOT_TOKEN', '6312969509:AAGAk_Qj_vS7spkPQnLFY9ohqN1ieO2NYLk') #BOT Token Add
 API_ID = int(os.environ.get('API_ID', 3847632)) #Telgram Api id
 APP_HASH = os.environ.get('APP_HASH', '1a9708f807ddd06b10337f2091c67657')# Telgram App hash  
 OWNER_ID = int(os.environ.get('OWNER_ID', 6440253535))
-MONGO_DB = os.environ.get("MONGO_DB", 'mongodb+srv://1234:1234@cluster0.hvaceqn.mongodb.net/?retryWrites=true&w=majority') #MONGO DB FOR ANIME DATA
+MONGO_DB = os.environ.get("MONGO_DB", 'mongodb+srv://whocarestobi:whocarestobi@cluster0.ayo8gc4.mongodb.net/?retryWrites=true&w=majority') #MONGO DB FOR ANIME DATA
 FILES_CHANNEL = os.environ.get("FILES_CHANNEL", -1001940830839)    # Must Fill This ,Add Bot As Admin In Log Channel
 BOT_NAME = os.environ.get('BOT_NAME', 'Anime fusion 2nd')
 #<-----------Variables For 4GB Support (Optional)-------------->
