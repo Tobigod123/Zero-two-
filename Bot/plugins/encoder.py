@@ -96,7 +96,7 @@ video_mimetype = [
     "video/mpeg"
 ]      
                   
-@encoder.on_message(filters.document | filters.video & filters.private)
+@encoder.on_message(filters.document | filters.video)
 async def encoder_process(encoder, message):
     if message.document and message.video and message.document.mime_type and message.video.mime_type not in video_mimetype:
         return 
